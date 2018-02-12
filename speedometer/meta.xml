@@ -1,0 +1,5 @@
+<meta>
+	<info author="zHoop" version="1.0" name="Simple Speedometer" type="script" />
+	
+	<script src="client.lua" type="client" />
+</meta>
